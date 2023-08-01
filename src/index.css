@@ -44,3 +44,20 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+
+.home {
+  background-color: gray;
+  color: white;
+}
+
+.chimi {
+  max-width: auto;
+  max-height: auto;
+  background-color: darkgreen;
+}
+
+.jon {
+  max-width: auto;
+  max-height: auto;
+  background-color:paleturquoise;
+}
